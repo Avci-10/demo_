@@ -1,0 +1,6 @@
+commit : message tgoul fih chnawa 3malt 
+
+git pull :
+
+Télécharger (fetch) : Il ramène les changements depuis le dépôt distant (remote repo).
+Fusionner (merge) : Il intègre ces changements dans ta branche locale.
