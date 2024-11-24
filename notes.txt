@@ -1,0 +1,6 @@
+traja3 el fichier commite mel remote 
+git log talga les fichier commite avec leurs id 
+git reset --hard id commit (git log)
+touch .gitignore ( el fichier hedha tkhabi fih el hajet elli me thebhomech ybenou kima fazet e stash 
+
+t7el el vscode aalih w t7OT fastou esemi el fichier elli me thebhomesh ybenou w ken t7eb tkharej fichier menhom taamekl git add -f ou --force ism el fichier 
