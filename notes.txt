@@ -1,6 +1,16 @@
-traja3 el fichier commite mel remote 
-git log talga les fichier commite avec leurs id 
-git reset --hard id commit (git log)
-touch .gitignore ( el fichier hedha tkhabi fih el hajet elli me thebhomech ybenou kima fazet e stash 
+class Counter yaatik nombre d'occurrence mte3 les elements elli bech taatihomlou (list , tuple , chaine )
 
-t7el el vscode aalih w t7OT fastou esemi el fichier elli me thebhomesh ybenou w ken t7eb tkharej fichier menhom taamekl git add -f ou --force ism el fichier 
+fih fonction :
+ iterable(variables.elements())----------> \\ kol esm kol element godemou guedech maawed men marra 
+  variable.most_common(n) ----------------> \\ akther n element maawed men marra 
+
+module icecream 
+   fonction ic () 
+     affichage khir mel print()
+
+
+list.sort()
+  affiche none khater me traja3 chay =======> tekheth list w taamlelha tri 
+   maaneha print(list.sort())=====> none 
+   print(list)======> taatiha nouvelle list triee 
+
